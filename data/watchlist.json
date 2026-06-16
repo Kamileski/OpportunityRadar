@@ -1,0 +1,20 @@
+{
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "sector": "Information Technology",
+      "date_added": "2026-06-10",
+      "initial_price": 135.2,
+      "initial_score": 84.5
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks Inc.",
+      "sector": "Information Technology",
+      "date_added": "2026-06-12",
+      "initial_price": 97.8,
+      "initial_score": 81.2
+    }
+  ]
+}

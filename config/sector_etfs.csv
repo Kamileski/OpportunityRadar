@@ -1,0 +1,15 @@
+Ticker,Company,Sector
+XLK,Technology Select Sector SPDR,Technology
+XLV,Health Care Select Sector SPDR,Health Care
+XLF,Financial Select Sector SPDR,Financials
+XLY,Consumer Discretionary Select Sector SPDR,Consumer Discretionary
+XLP,Consumer Staples Select Sector SPDR,Consumer Staples
+XLE,Energy Select Sector SPDR,Energy
+XLU,Utilities Select Sector SPDR,Utilities
+XLB,Materials Select Sector SPDR,Materials
+XLI,Industrial Select Sector SPDR,Industrials
+XLRE,Real Estate Select Sector SPDR,Real Estate
+XLC,Communication Services Select Sector SPDR,Communication Services
+SPY,SPDR S&P 500 ETF,Benchmark
+QQQ,Invesco QQQ Trust,Benchmark
+IWM,iShares Russell 2000 ETF,Benchmark

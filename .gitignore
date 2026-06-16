@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.streamlit/
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore old/previous JSON dumps (but maybe keep watchlist.json if it shouldn't be tracked)
+# Note: For this project, you might want to track config/*.csv but ignore data/*.json except the folder itself.
+# We will ignore daily scan outputs to prevent bloated git repos.
+data/daily_scan.json
+data/daily_scan_prev.json
+data/validation_data.json
